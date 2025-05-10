@@ -1,0 +1,211 @@
+{
+    "template": {
+        "audit": {
+            "category": "audit_log",
+            "channel_id": "",
+            "disabled": true,
+            "icon_url": null,
+            "label": "audit",
+            "message_format": "simple",
+            "ignore_channels": []
+        },
+        "delete": {
+            "category": "message_log",
+            "channel_id": "",
+            "disabled": true,
+            "icon_url": null,
+            "label": "delete",
+            "message_format": "simple",
+            "ignore_channels": []
+        },
+        "edit": {
+            "category": "message_log",
+            "channel_id": "",
+            "disabled": true,
+            "icon_url": null,
+            "label": "edit",
+            "message_format": "simple",
+            "ignore_channels": []
+        },
+        "join": {
+            "category": "join_part",
+            "channel_id": "",
+            "disabled": true,
+            "icon_url": null,
+            "label": "join",
+            "message_format": "simple",
+            "ignore_channels": []
+        },
+        "moderator_ban": {
+            "category": "moderator_actions",
+            "channel_id": "",
+            "disabled": true,
+            "icon_url": null,
+            "label": "moderator_ban",
+            "message_format": "simple",
+            "ignore_channels": []
+        },
+        "moderator_deafen": {
+            "category": "moderator_actions",
+            "channel_id": "",
+            "disabled": true,
+            "icon_url": null,
+            "label": "moderator_deafen",
+            "message_format": "simple",
+            "ignore_channels": []
+        },
+        "moderator_delete": {
+            "category": "moderator_actions",
+            "channel_id": "",
+            "disabled": true,
+            "icon_url": null,
+            "label": "moderator_delete",
+            "message_format": "simple",
+            "ignore_channels": []
+        },
+        "moderator_disconnect": {
+            "category": "moderator_actions",
+            "channel_id": "",
+            "disabled": true,
+            "icon_url": null,
+            "label": "moderator_disconnect",
+            "message_format": "simple",
+            "ignore_channels": []
+        },
+        "moderator_kick": {
+            "category": "moderator_actions",
+            "channel_id": "",
+            "disabled": true,
+            "icon_url": null,
+            "label": "moderator_kick",
+            "message_format": "simple",
+            "ignore_channels": []
+        },
+        "moderator_move": {
+            "category": "moderator_actions",
+            "channel_id": "",
+            "disabled": true,
+            "icon_url": null,
+            "label": "moderator_move",
+            "message_format": "simple",
+            "ignore_channels": []
+        },
+        "moderator_mute": {
+            "category": "moderator_actions",
+            "channel_id": "",
+            "disabled": true,
+            "icon_url": null,
+            "label": "moderator_mute",
+            "message_format": "simple",
+            "ignore_channels": []
+        },
+        "moderator_nick": {
+            "category": "moderator_actions",
+            "channel_id": "",
+            "disabled": true,
+            "icon_url": null,
+            "label": "moderator_nick",
+            "message_format": "simple",
+            "ignore_channels": []
+        },
+        "moderator_pin": {
+            "category": "moderator_actions",
+            "channel_id": "",
+            "disabled": true,
+            "icon_url": null,
+            "label": "moderator_pin",
+            "message_format": "simple",
+            "ignore_channels": []
+        },
+        "moderator_role": {
+            "category": "moderator_actions",
+            "channel_id": "",
+            "disabled": true,
+            "icon_url": null,
+            "label": "moderator_role",
+            "message_format": "simple",
+            "ignore_channels": []
+        },
+        "moderator_timeout": {
+            "category": "moderator_actions",
+            "channel_id": "",
+            "disabled": true,
+            "icon_url": null,
+            "label": "moderator_timeout",
+            "message_format": "simple",
+            "ignore_channels": []
+        },
+        "nick": {
+            "category": "member_actions",
+            "channel_id": "",
+            "disabled": true,
+            "icon_url": null,
+            "label": "nick",
+            "message_format": "simple",
+            "ignore_channels": []
+        },
+        "onboarding": {
+            "category": "member_actions",
+            "channel_id": "",
+            "disabled": true,
+            "icon_url": null,
+            "label": "onboarding",
+            "message_format": "simple",
+            "ignore_channels": []
+        },
+        "part": {
+            "category": "join_part",
+            "channel_id": "",
+            "disabled": true,
+            "icon_url": null,
+            "label": "part",
+            "message_format": "simple",
+            "ignore_channels": []
+        },
+        "pending": {
+            "category": "member_actions",
+            "channel_id": "",
+            "disabled": true,
+            "icon_url": null,
+            "label": "pending",
+            "message_format": "simple",
+            "ignore_channels": []
+        },
+        "rejoin": {
+            "category": "join_part",
+            "channel_id": "",
+            "disabled": true,
+            "icon_url": null,
+            "label": "rejoin",
+            "message_format": "simple",
+            "ignore_channels": []
+        },
+        "role": {
+            "category": "member_actions",
+            "channel_id": "",
+            "disabled": true,
+            "icon_url": null,
+            "label": "role",
+            "message_format": "simple",
+            "ignore_channels": []
+        },
+        "username": {
+            "category": "member_actions",
+            "channel_id": "",
+            "disabled": true,
+            "icon_url": null,
+            "label": "username",
+            "message_format": "simple",
+            "ignore_channels": []
+        },
+        "voice": {
+            "category": "voice",
+            "channel_id": "",
+            "disabled": true,
+            "icon_url": null,
+            "label": "voice",
+            "message_format": "simple",
+            "ignore_channels": []
+        }
+    }
+}

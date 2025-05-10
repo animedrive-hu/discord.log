@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  discord-logger:
+    build: .
+    image: discord-logger:latest
+    restart: unless-stopped
+    env_file:
+      - .env
+    volumes:
+      - /mnt/user/appdata/discord-logger/config:/app/config
+      - /mnt/user/appdata/discord-logger/logs:/app/logs
